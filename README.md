@@ -57,7 +57,7 @@ Screen capture that shows the values for a new item
 Click to see larger image
 Any field in a selected row can be highlighted and copied. When no fields are highlighted, Ctrl+C places the value of the item in the clipboard, and you can paste it into the appropriate text area.
 
-<h2>Step 2. Fork the project and deploy the app from IBM DevOps Services to Bluemix</h2>bbbbbb
+<h2>Step 2. Fork the project and deploy the app from IBM DevOps Services to Bluemix</h2>
 
 If you want to build the application locally before you deploy it to Bluemix, skip this step and resume the tutorial at Step 3.
 In this step, you'll automatically deploy an instance of the application from your own DevOps Services project to Bluemix.
