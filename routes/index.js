@@ -13,10 +13,6 @@ router.get('/', function(req, res) {
 router.get('/jtable', function(req, res) {
   res.render('jtable', { title: 'Express' });
 });
-/* GET home page. */
-router.get('/jt', function(req, res) {
-  res.render('jtable', { title: 'Express' });
-});
 
 router.post('/itemlist', function(req, res) {
     var sorting_desceding = true;
